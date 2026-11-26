@@ -1,6 +1,0 @@
-package com.example.demo.example;
-
-public interface Example {
-    /**     실행   */
-    void run();
-}
